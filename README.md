@@ -37,13 +37,13 @@ pip install -r requirements.txt
 
 * Good reviews
 
-![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/result.png)
+![!imgs](https://github.com/gslmota/Product_review_analysis/blob/main/imgs/good.png)
 
 * Bad reviews
 
-![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/result.png)
+![!imgs](https://github.com/gslmota/Product_review_analysis/blob/main/imgs/bad.png)
 
 * Confusion Matrix
 
-![!imgs](https://github.com/gslmota/Image_analysis_for_the-medical_department/blob/main/imgs/cfm.png)
+![!imgs](https://github.com/gslmota/Product_review_analysis/blob/main/imgs/cm.png)
 
