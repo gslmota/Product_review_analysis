@@ -47,3 +47,6 @@ pip install -r requirements.txt
 
 ![!imgs](https://github.com/gslmota/Product_review_analysis/blob/main/imgs/cm.png)
 
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
